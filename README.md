@@ -57,5 +57,5 @@ SSH deploy key is preferred over Personal Access Token. If using a PAT, avoid
 setting verbose logging as it may expose the token.
 
 You can also use `import_git_files` module in your project and the included 
-context manager, `GitExtractedFiles`. See the [docs](docs/README.md) for more 
-information.
+context manager, `GitExtractedFiles`. See the [docs](https://import-git-files.readthedocs.io/) 
+for more information.
