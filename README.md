@@ -1,6 +1,7 @@
 # import-git-files
 
 ![import-git-files](https://github.com/michaeltneylon/import-git-files/workflows/import-git-files%20CI/badge.svg)
+[![Documentation Status](https://readthedocs.org/projects/import-git-files/badge/?version=latest)](https://import-git-files.readthedocs.io/en/latest/?badge=latest)
 
 [Read The Docs](https://import-git-files.readthedocs.io/)
 
